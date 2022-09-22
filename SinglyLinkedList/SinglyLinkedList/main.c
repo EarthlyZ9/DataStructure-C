@@ -1,6 +1,6 @@
 //
 //  main.c
-//  SinglyLinkedList2
+//  SinglyLinkedList
 //
 //  Created by Jisoo Lee on 2022/09/21.
 //
