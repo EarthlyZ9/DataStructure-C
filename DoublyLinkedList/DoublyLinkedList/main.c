@@ -52,7 +52,7 @@ int main(void) {
     
     for (i = 0; i < Count; i++)
     {
-        Current = DLL_GetNodeAt(List, i);
+        Current = DLL_GetNodeAt(List, 0);
         
         if (Current != NULL)
         {
