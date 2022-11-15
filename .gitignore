@@ -1,11 +1,19 @@
 # MacOS
 .DS_Store
 
+# IDE
+*.iml
+.idea
+
 # Xcode
 *.xcodeproj
 
 # Prerequisites
 *.d
+
+#Cmake
+*.txt
+cmake-build-debug
 
 # Object files
 *.o
